@@ -8,7 +8,7 @@ const products = [
         fullDescription: "TBD",
         price: 200.00,
         etsyLink: "https://darkstardice.etsy.com/listing/1321229480",
-        imageUrl: "images/products/nebula-galaxy.jpg", // UPDATE with your actual filename
+        imageUrl: "darkstar-dice-website/images/Amethyst Geode D20/PXL_20221002_153330970.jpg", // UPDATE with your actual filename
         badge: "Bestseller",
         includes: [
             "Full 7-dice polyhedral set",
@@ -334,4 +334,5 @@ modalStyles.textContent = `
 `;
 
 document.head.appendChild(modalStyles);
+
 
