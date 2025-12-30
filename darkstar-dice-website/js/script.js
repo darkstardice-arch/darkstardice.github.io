@@ -3,11 +3,11 @@
 const products = [
     {
         id: 1,
-        name: "Rivers of Amethyst, 55mm D20",
+        name: "Amethyst Geode, 55mm D20",
         description: "Deep cosmic blues and purples with shimmering silver glitter, reminiscent of a distant galaxy.",
         fullDescription: "TBD",
-        price: 150.00,
-        etsyLink: "https://www.etsy.com/listing/YOUR-ACTUAL-LINK-HERE",
+        price: 200.00,
+        etsyLink: "https://darkstardice.etsy.com/listing/1321229480",
         imageUrl: "images/products/nebula-galaxy.jpg", // UPDATE with your actual filename
         badge: "Bestseller",
         includes: [
@@ -334,3 +334,4 @@ modalStyles.textContent = `
 `;
 
 document.head.appendChild(modalStyles);
+
