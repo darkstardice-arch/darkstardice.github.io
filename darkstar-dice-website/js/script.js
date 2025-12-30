@@ -3,10 +3,10 @@
 const products = [
     {
         id: 1,
-        name: "Nebula Galaxy Set",
+        name: "Rivers of Amethyst, 55mm D20",
         description: "Deep cosmic blues and purples with shimmering silver glitter, reminiscent of a distant galaxy.",
-        fullDescription: "This Nebula Galaxy set features a stunning blend of deep blues, vibrant purples, and shimmering silver glitter suspended in crystal-clear resin. Each die is carefully polished to a high-gloss finish, with sharp, readable silver numbers. The set includes all seven standard polyhedral dice (d4, d6, d8, d10, d%, d12, d20) plus an extra d20 for advantage rolls. Made with premium resin for excellent weight and balance.",
-        price: 68.99,
+        fullDescription: "TBD",
+        price: 150.00,
         etsyLink: "https://www.etsy.com/listing/YOUR-ACTUAL-LINK-HERE",
         imageUrl: "images/products/nebula-galaxy.jpg", // UPDATE with your actual filename
         badge: "Bestseller",
@@ -332,4 +332,5 @@ modalStyles.textContent = `
         }
     }
 `;
+
 document.head.appendChild(modalStyles);
